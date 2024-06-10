@@ -13,7 +13,6 @@
 | Versão | Descrição                   | Autor       | Data |
 |--------|-----------------------------|-------------|------|
 | 1.0    | Elaboração do Plano de Trabalho | Kayth Kariny |      |
-|        |                             |             |    |
 ---
 
 ## ÍNDICE
