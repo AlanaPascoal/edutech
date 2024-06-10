@@ -1,6 +1,6 @@
 ## Histórias de Usuários para Sistema E-learning
 
-### Persona 1: Instrutor de Cursos Técnicos (Lucas Mendes)
+### Instrutor de Cursos Técnicos
 
 **Como instrutor de cursos técnicos,**
 
@@ -20,7 +20,7 @@
 
 **Para:** Utilizar um dashboard que exiba o progresso individual dos alunos, incluindo visualizações de vídeos e resultados de quizzes, proporcionando feedback contínuo no sistema e-learning.
 
-### Persona 2: Professora de Bootcamp de Programação (Mariana Souza)
+### Professora de Bootcamp de Programação (Mariana Souza)
 
 **Como professora de bootcamp de programação,**
 
