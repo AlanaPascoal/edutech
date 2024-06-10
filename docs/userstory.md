@@ -20,7 +20,7 @@
 
 **Para:** Utilizar um dashboard que exiba o progresso individual dos alunos, incluindo visualizações de vídeos e resultados de quizzes, proporcionando feedback contínuo no sistema e-learning.
 
-### Professora de Bootcamp de Programação (Mariana Souza)
+### Professora de Bootcamp de Programação
 
 **Como professora de bootcamp de programação,**
 
