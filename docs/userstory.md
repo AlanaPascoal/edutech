@@ -1,4 +1,4 @@
-## Histórias de Usuários para Sistema E-learning
+## Histórias de Usuários
 
 ### Instrutor de Cursos Técnicos
 
