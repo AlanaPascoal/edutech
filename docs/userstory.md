@@ -2,10 +2,6 @@
 
 ## Persona 1: Instrutor de Cursos Técnicos (Lucas Mendes)
 
-# Histórias de Usuário para o Sistema de Cursos Online Voltado para Professores
-
-Aqui estão 20 funcionalidades detalhadas com critérios de aceitação e regras de negócio quando necessário, para atender às necessidades dos instrutores Lucas Mendes e Mariana Souza.
-
 1. **Upload e Gerenciamento de Vídeos Educacionais**
    Como instrutor, eu quero fazer upload de vídeos em diversos formatos para que eu possa compartilhar conteúdo educacional com meus alunos.
 
