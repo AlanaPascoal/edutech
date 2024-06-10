@@ -169,5 +169,3 @@ O monitoramento e controle do escopo do projeto serão realizados a partir das s
 - Solicitações de mudança no escopo do projeto devem ser efetivamente comunicadas e compreendidas.
 
 ---
-
-*Esta página é parte integrante do 1_PT- Plano de Trabalho_v01_CAPDA Página (19) de 26*
