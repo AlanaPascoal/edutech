@@ -72,13 +72,13 @@ Regras de Negócio:
 - Funcionalidade para moderar e revisar avaliações
   
 Critérios de Aceitação:
-Permitir a submissão de trabalhos para avaliação por outros alunos.
-Permitir a configuração de critérios de avaliação claros.
-Gerar relatórios de avaliação com feedback dos pares.
+- Permitir a submissão de trabalhos para avaliação por outros alunos.
+- Permitir a configuração de critérios de avaliação claros.
+- Gerar relatórios de avaliação com feedback dos pares.
 
 Regras de Negócio:
-Avaliações por pares devem ser anônimas para evitar vieses.
-Critérios de avaliação devem ser claros e fáceis de seguir.
+- Avaliações por pares devem ser anônimas para evitar vieses.
+- Critérios de avaliação devem ser claros e fáceis de seguir.
 
 ## Notificações e Alertas:
 - Sistema de notificações para atualizações e lembretes
