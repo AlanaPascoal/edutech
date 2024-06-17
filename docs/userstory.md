@@ -4,19 +4,19 @@
 
 **Como** instrutor de cursos técnicos,
 
-**Eu quero** fornecer conteúdo educacional de qualidade e organizado aos meus alunos
+**Eu quero** facilitar o upload e gerenciamento de vídeos educacionais, categorizando-os por tema e nível de dificuldade
 
-**Para** facilitar o upload e gerenciamento de vídeos educacionais, categorizando-os por tema e nível de dificuldade.
+**Para** fornecer conteúdo educacional de qualidade e organizado aos meus alunos.
 
 **Como** instrutor de cursos técnicos,
 
-**Eu quero** criar quizzes interativos com feedback automático personalizado para cada resposta, garantindo uma avaliação eficaz.
+**Eu quero** criar quizzes interativos com feedback automático personalizado para cada resposta, garantindo uma avaliação eficaz
 
 **Para** avaliar o conhecimento dos alunos de maneira interativa
 
 **Como** instrutor de cursos técnicos,
 
-**Eu quero** utilizar um painel que exibe o progresso individual dos alunos, incluindo visualizações de vídeos e resultados de quizzes, fornecendo feedback contínuo.
+**Eu quero** utilizar um painel que exibe o progresso individual dos alunos, incluindo visualizações de vídeos e resultados de quizzes, fornecendo feedback contínuo
 
 **Para** monitorar o progresso dos alunos de forma eficiente.
 
