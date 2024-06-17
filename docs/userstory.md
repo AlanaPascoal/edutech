@@ -6,33 +6,33 @@
 
 **Eu quero** fornecer conteúdo educacional de qualidade e organizado aos meus alunos
 
-**Para** facilitar o upload e gerenciamento de vídeos educacionais, categorizando-os por tema e nível de dificuldade no sistema e-learning.
+**Para** facilitar o upload e gerenciamento de vídeos educacionais, categorizando-os por tema e nível de dificuldade.
 
 **Como** instrutor de cursos técnicos,
 
-**Eu quero** avaliar o conhecimento dos alunos de maneira interativa
+**Eu quero** criar quizzes interativos com feedback automático personalizado para cada resposta, garantindo uma avaliação eficaz.
 
-**Para** criar quizzes interativos com feedback automático personalizado para cada resposta, garantindo uma avaliação eficaz no sistema e-learning.
+**Para** avaliar o conhecimento dos alunos de maneira interativa
 
 **Como** instrutor de cursos técnicos,
 
-**Eu quero** monitorar o progresso dos alunos de forma eficiente
+**Eu quero** utilizar um painel que exibe o progresso individual dos alunos, incluindo visualizações de vídeos e resultados de quizzes, fornecendo feedback contínuo.
 
-**Para** utilizar um painel que exibe o progresso individual dos alunos, incluindo visualizações de vídeos e resultados de quizzes, fornecendo feedback contínuo no sistema e-learning.
+**Para** monitorar o progresso dos alunos de forma eficiente.
 
 ## Professora de Bootcamp de Programação
 
 **Como** professora de bootcamp de programação,
 
-**Eu quero** oferecer desafios práticos de programação aos alunos
+**Eu quero** criar desafios de programação em diversas linguagens e automatizar sua distribuição conforme o progresso do curso
 
-**Para** criar desafios de programação em diversas linguagens e automatizar sua distribuição conforme o progresso do curso no sistema e-learning.
+**Para** oferecer desafios práticos de programação aos alunos
 
 **Como** professora de bootcamp de programação,
 
-**Eu quero** facilitar a interação e o feedback instantâneo com os alunos
+**Eu quero** implementar fóruns de discussão segmentados por tópicos de curso e sessões de dúvidas ao vivo com chat, melhorando a experiência educacional
 
-**Para** implementar fóruns de discussão segmentados por tópicos de curso e sessões de dúvidas ao vivo com chat, melhorando a experiência educacional no sistema e-learning.
+**Para** facilitar a interação e o feedback instantâneo com os alunos.
 
 **Como** professora de bootcamp de programação,
 
