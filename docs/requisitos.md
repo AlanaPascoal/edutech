@@ -82,11 +82,11 @@ Regras de Negócio:
 
 ## Notificações e Alertas:
 - Sistema de notificações para atualizações e lembretes
-- Configurações personalizáveis para diferentes tipos de alertas
+- Configurações personalizáveis de alertas para email
   
 Critérios de Aceitação:
 - Permitir configurar notificações para novas atividades, prazos de tarefas e feedback recebido.
--  Permitir notificações via email e push no aplicativo mobile.
+-  Permitir notificações via email.
   
 Regras de Negócio:
 - Notificações devem ser enviadas em tempo real.
