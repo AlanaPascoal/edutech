@@ -4,10 +4,12 @@
 - Capacidade de fazer upload de vídeos educativos
 - Ferramentas para organizar e categorizar vídeos
 - Suporte para diferentes formatos de vídeo
-  Critérios de Aceitação:
+
+Critérios de Aceitação:
 - Permitir upload de vídeos em formatos MP4, AVI e MOV.
 - Permitir adicionar legendas e anotações aos vídeos.
 - Suportar vídeos de até 2GB.
+
 Regras de Negócio:
 - Os vídeos devem ser processados e armazenados de forma segura.
 - Legendas e anotações devem ser sincronizadas corretamente com o vídeo.
