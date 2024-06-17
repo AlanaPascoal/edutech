@@ -34,7 +34,7 @@
 
 **Para** implementar fóruns de discussão segmentados por tópicos de curso e sessões de dúvidas ao vivo com chat, melhorando a experiência educacional no sistema e-learning.
 
-**Como** professora,
+**Como** professora de bootcamp de programação,
 
 **Eu quero** receber notificações e alertas sobre prazos e novas atividades
 
