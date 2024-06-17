@@ -33,3 +33,9 @@
 **Eu quero** facilitar a interação e o feedback instantâneo com os alunos
 
 **Para** implementar fóruns de discussão segmentados por tópicos de curso e sessões de dúvidas ao vivo com chat, melhorando a experiência educacional no sistema e-learning.
+
+**Como** professora,
+
+**Eu quero** receber notificações e alertas sobre prazos e novas atividades
+
+**Para** me manter atualizado.
