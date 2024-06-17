@@ -30,7 +30,7 @@
 
 **Como** professora de bootcamp de programação,
 
-**Eu quero** implementar fóruns de discussão segmentados por tópicos de curso e sessões de dúvidas ao vivo com chat, melhorando a experiência educacional
+**Eu quero** implementar fóruns de discussão segmentados por tópicos de curso e sessões de dúvidas ao vivo com chat
 
 **Para** facilitar a interação e o feedback instantâneo com os alunos.
 
