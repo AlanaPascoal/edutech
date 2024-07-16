@@ -98,10 +98,10 @@ Desenvolvimento de um sistema abrangente de educação online, incluindo funcion
 
 ### 2.4 Características Inovadoras do Projeto
 
-- Interface de usuário intuitiva e responsiva:** Focada na facilidade de uso e acessibilidade.
-- Quizzes interativos:** Ferramentas para criação de quizzes que tornam o aprendizado mais dinâmico.
-- Análise de sentimento de feedback:** Utilização de técnicas de análise de sentimento para entender a opinião dos alunos sobre os conteúdos.
-- Ferramentas avançadas de monitoramento de progresso:** Relatórios detalhados e visualizações sobre o desempenho dos alunos.
+- Interface de usuário intuitiva e responsiva: Focada na facilidade de uso e acessibilidade.
+- Quizzes interativos: Ferramentas para criação de quizzes que tornam o aprendizado mais dinâmico.
+- Análise de sentimento de feedback: Utilização de técnicas de análise de sentimento para entender a opinião dos alunos sobre os conteúdos.
+- Ferramentas avançadas de monitoramento de progresso: Relatórios detalhados e visualizações sobre o desempenho dos alunos.
 
 ### 2.5 Resultados Esperados
 
