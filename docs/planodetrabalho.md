@@ -42,14 +42,10 @@ Este projeto surge da alta demanda por plataformas educacionais online, especial
 
 | Enquadrabilidade           | Detalhamento                                                                                                           |
 |----------------------------|------------------------------------------------------------------------------------------------------------------------|
-| LGPD (Lei Geral de Proteção de Dados) | 
-Garante a privacidade e proteção dos dados dos usuários.|
-| LDB (Lei de Diretrizes e Bases da Educação)| 
-Alinha a plataforma com as diretrizes educacionais nacionais.|
-| Acessibilidade | 
-Atende aos padrões de acessibilidade para garantir que a plataforma seja utilizável por todos os alunos, inclusive aqueles com deficiência.|
-| Segurança | 
-Implementa medidas de segurança para proteger os dados e a integridade do sistema.|
+| LGPD (Lei Geral de Proteção de Dados) | Garante a privacidade e proteção dos dados dos usuários.|
+| LDB (Lei de Diretrizes e Bases da Educação)| Alinha a plataforma com as diretrizes educacionais nacionais.|
+| Acessibilidade | Atende aos padrões de acessibilidade para garantir que a plataforma seja utilizável por todos os alunos, inclusive aqueles com deficiência.|
+| Segurança | Implementa medidas de segurança para proteger os dados e a integridade do sistema.|
 
 #### 1.3.3 Tipo
 
