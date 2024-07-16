@@ -67,19 +67,19 @@ Desenvolvimento de um sistema abrangente de educação online, incluindo funcion
 
 #### 2.2.1 Escopo Específico
 
-Implementação de funcionalidades para:
-- Upload e gerenciamento de vídeos educacionais
-- Criação de quizzes interativos
-- Acompanhamento do progresso dos alunos
-- Criação e automação de desafios de programação
-- Feedback automático e contínuo
-- Avaliação por pares
-- Notificações e alertas
-- Personalização de perfis de alunos
-- Sistema de mensagens privadas
-- Análise de sentimento de feedback
-- Relatórios de acessibilidade
-- Assistente de planejamento de curso
+- Implementação de funcionalidades para:
+- Upload de vídeos
+- Criação de quizzes
+- Visualização de métricas de desempenho
+- Histórico de feedbacks
+- Definição de critérios de avaliação
+- Comunicação com instrutores
+- Definição de bio no perfil
+- Proteção de conversas no fórum
+- Relatórios de sentimento dos alunos
+- Relatórios de progresso em formato gráfico
+- Notificações sobre atividades dos alunos
+- Suporte a múltiplos idiomaS
 
 #### 2.2.2 Escopo Negativo
 
