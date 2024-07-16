@@ -21,8 +21,9 @@
 
 # Persona 2: Aluno
 
-**Profissão:** Estudante de Sistemas de Informação 
-**Experiência:** Aluna dedicada com forte interesse em tecnologia, buscando recursos adicionais para complementar os estudos.  
+**Profissão:** Estudante de Sistemas de Informação
+
+**Experiência:** Aluno dedicado com forte interesse em tecnologia, buscando recursos adicionais para complementar os estudos.  
 
 **Objetivos:**
 - Acessar conteúdos de alta qualidade para melhorar o aprendizado.
