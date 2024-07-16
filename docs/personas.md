@@ -10,7 +10,7 @@
 - Criar e compartilhar conteúdos educacionais de qualidade.
 - Monitorar o progresso dos alunos e fornecer feedback.
 - Utilizar ferramentas interativas para tornar as aulas mais dinâmicas.
-- 
+  
 **Frustrações:**
 - Falta de familiaridade com algumas tecnologias.
 - Dificuldade em manter os alunos engajados em aulas online.
