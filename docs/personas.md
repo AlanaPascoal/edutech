@@ -14,7 +14,7 @@
 **Frustrações:**
 - Falta de familiaridade com algumas tecnologias.
 - Dificuldade em manter os alunos engajados em aulas online.
-- 
+
 **Necessidades:**
 - Plataforma fácil de usar com suporte para vídeos e quizzes.
 - Ferramentas para acompanhar e avaliar o desempenho dos alunos.
@@ -28,11 +28,11 @@
 - Acessar conteúdos de alta qualidade para melhorar o aprendizado.
 - Participar de quizzes e fóruns para reforçar o conhecimento.
 - Receber feedback contínuo sobre o desempenho.
-- 
+
 **Frustrações:**
 - Plataformas confusas e difíceis de navegar.
 - Falta de feedback detalhado sobre o progresso.
-- 
+ 
 **Necessidades:**
 - Interface intuitiva e responsiva.
 - Recursos interativos para facilitar o aprendizado.
