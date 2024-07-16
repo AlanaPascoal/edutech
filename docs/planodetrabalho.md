@@ -1,7 +1,7 @@
 # PLANO DE TRABALHO
 
 **Nome do Projeto:** EduTech  
-**Versão:** 1.0  
+**Versão:** 2.0  
 **Status:** Em andamento  
 **Executor Principal:** Kayth Kariny  
 **Coordenador do Projeto:** Andrey Rodrigues  
@@ -13,6 +13,7 @@
 | Versão | Descrição                   | Autor       | Data |
 |--------|-----------------------------|-------------|------|
 | 1.0    | Elaboração do Plano de Trabalho | Kayth Kariny | 8/06/2024 |
+| 2.0    | Correção do Plano de Trabalho | Kayth Kariny | 14/07/2024 |
 ---
 
 ## ÍNDICE
@@ -41,7 +42,14 @@ Este projeto surge da alta demanda por plataformas educacionais online, especial
 
 | Enquadrabilidade           | Detalhamento                                                                                                           |
 |----------------------------|------------------------------------------------------------------------------------------------------------------------|
-| Projetos de inovação tecnológica | É considerado uma inovação tecnológica devido à implementação de uma plataforma educacional com funcionalidades inovadoras, como quizzes interativos, análise de sentimento de feedback e ferramentas avançadas de monitoramento de progresso. |
+| LGPD (Lei Geral de Proteção de Dados) | 
+Garante a privacidade e proteção dos dados dos usuários.|
+| LDB (Lei de Diretrizes e Bases da Educação)| 
+Alinha a plataforma com as diretrizes educacionais nacionais.|
+| Acessibilidade | 
+Atende aos padrões de acessibilidade para garantir que a plataforma seja utilizável por todos os alunos, inclusive aqueles com deficiência.|
+| Segurança | 
+Implementa medidas de segurança para proteger os dados e a integridade do sistema.|
 
 #### 1.3.3 Tipo
 
@@ -88,13 +96,16 @@ Implementação de funcionalidades para:
 
 | Ferramentas e Tecnologias          | Modelo e Especificações                                                     |
 |------------------------------------|------------------------------------------------------------------------------|
-| Desenvolvimento                    | IDE: Visual Studio Code, Linguagem de Programação: JavaScript, Frameworks: Next.js, NestJS, Banco de Dados: Postgres, Firebase, Hospedagem Backend: Render, Hospedagem Frontend: Vercel |
+| Desenvolvimento                    | IDE: Visual Studio Code, Linguagem de Programação: JavaScript, Frameworks: Next.js, NestJS, Banco de Dados: Postgres, Firebase, Hospedagem Backend: Render, Hospedagem Frontend: Vercel, Modelagem do Sistema: Draw.io |
 | Design                             | UI/UX Design: Figma                                                         |
 | Teste                              | Teste Automatizado: Selenium, Cypress, Appium, Gestão de Testes e Rastreamento de Bugs: Github Projects, Teste de Performance: SonarQube |
 
 ### 2.4 Características Inovadoras do Projeto
 
-- Interface de usuário intuitiva e responsiva
+- Interface de usuário intuitiva e responsiva:** Focada na facilidade de uso e acessibilidade.
+- Quizzes interativos:** Ferramentas para criação de quizzes que tornam o aprendizado mais dinâmico.
+- Análise de sentimento de feedback:** Utilização de técnicas de análise de sentimento para entender a opinião dos alunos sobre os conteúdos.
+- Ferramentas avançadas de monitoramento de progresso:** Relatórios detalhados e visualizações sobre o desempenho dos alunos.
 
 ### 2.5 Resultados Esperados
 
