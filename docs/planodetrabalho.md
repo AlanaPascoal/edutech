@@ -92,7 +92,7 @@ Desenvolvimento de um sistema abrangente de educação online, incluindo funcion
 
 | Ferramentas e Tecnologias          | Modelo e Especificações                                                     |
 |------------------------------------|------------------------------------------------------------------------------|
-| Desenvolvimento                    | IDE: Visual Studio Code, Linguagem de Programação: JavaScript, Frameworks: Next.js, NestJS, Banco de Dados: Postgres, Firebase, Hospedagem Backend: Render, Hospedagem Frontend: Vercel, Modelagem do Sistema: Draw.io |
+| Desenvolvimento                    | IDE: Visual Studio Code, Linguagem de Programação: JavaScript, Frameworks:Next.js, NestJS, Banco de Dados: Postgres, Firebase, Hospedagem Backend: Render, Hospedagem Frontend: Vercel, Modelagem do Sistema: Draw.io |
 | Design                             | UI/UX Design: Figma                                                         |
 | Teste                              | Teste Automatizado: Selenium, Cypress, Appium, Gestão de Testes e Rastreamento de Bugs: Github Projects, Teste de Performance: SonarQube |
 
