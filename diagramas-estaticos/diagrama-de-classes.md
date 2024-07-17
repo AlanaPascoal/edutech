@@ -37,3 +37,14 @@
 ## Diagrama-DS - H09
 ![Diagramas-DS - H09 drawio](https://github.com/user-attachments/assets/484bb788-faa0-4b16-9bd4-4dc25d3cd517)
 
+
+## Diagrama-DS - H10
+![Diagramas-DS - H10 drawio](https://github.com/user-attachments/assets/58893f70-8791-490b-a84b-3d85530f6f02)
+
+
+## Diagrama-DS - H11
+![Diagramas-DS - H11 drawio](https://github.com/user-attachments/assets/98469337-833b-4d65-b6a0-20c6c7b58e0c)
+
+
+## Diagrama-DS - H12
+![Diagramas-DS - H12 drawio](https://github.com/user-attachments/assets/24708f1c-7801-42ad-8179-aefa4b37d856)
