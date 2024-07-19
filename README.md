@@ -32,7 +32,7 @@ Desenvolver uma plataforma de e-learning que permita aos professores criar e com
 ### Para as Instituições de Ensino:
 
 - **Escalabilidade e Eficiência**: Capacidade de atender a um grande número de alunos sem comprometer a qualidade do ensino, otimizando recursos.
-- **Redução de Custos: Economia de custos operacionais associados a aulas presenciais, como infraestrutura e materiais.
+- **Redução de Custos**: Economia de custos operacionais associados a aulas presenciais, como infraestrutura e materiais.
 - **Melhoria na Gestão Educacional**: Ferramentas de acompanhamento que auxiliam na gestão do desempenho dos alunos e na eficácia dos cursos, facilitando o planejamento acadêmico.
 - **Modernização do Ensino**: Integração de tecnologias modernas que colocam a instituição na vanguarda da educação digital, atraindo mais alunos e professores.
 
