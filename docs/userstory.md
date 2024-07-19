@@ -36,7 +36,7 @@ Como professor, eu quero visualizar relatórios de sentimento dos alunos para qu
 
 **H10- Relatórios de Progresso em Formato Gráfico**
 
-Como professor, eu quero que os relatórios de progresso sejam apresentados em formato de gráficos (barras, linhas) e tabelas para que eu possa analisar o desempenho dos alunos de forma clara e visual.
+Como professor, eu quero que os relatórios de progresso sejam apresentados em formato de gráficos (barras, linhas) e tabelas para que eu possa analisar o desempenho dos alunos.
 
 **H11- Notificações sobre Atividades dos Alunos**
 
