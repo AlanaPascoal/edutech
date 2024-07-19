@@ -79,7 +79,7 @@ Desenvolvimento de um sistema abrangente de educação online, incluindo funcion
 - Relatórios de sentimento dos alunos
 - Relatórios de progresso em formato gráfico
 - Notificações sobre atividades dos alunos
-- Suporte a múltiplos idiomaS
+- Suporte a múltiplos idiomas
 
 #### 2.2.2 Escopo Negativo
 
