@@ -48,6 +48,6 @@ Como professor, eu quero que o sistema suporte múltiplos idiomas para que eu po
 
 ## Aluno
 
-**H06- Comunicação com Instrutores**
+**H06- Comunicação com Professores**
 
-Como aluno, eu quero poder me comunicar com meus instrutores para que eu possa tirar dúvidas sobre o curso.
+Como aluno, eu quero poder me comunicar com meus professores para que eu possa tirar dúvidas sobre o curso.
