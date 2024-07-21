@@ -4,7 +4,7 @@ Nos dias atuais, a educação digital é indispensável para disseminar o conhec
 
 ## Objetivo do Projeto
 
-Desenvolver uma plataforma de e-learning que permita aos professores criar e compartilhar cursos online de forma eficiente e atraente. A plataforma deve incluir suporte para vídeos educacionais de alta qualidade, quizzes interativos, fóruns de discussão para fomentar a troca de ideias e um sistema de acompanhamento de progresso dos alunos, proporcionando uma experiência educacional completa e envolvente.
+Desenvolver uma plataforma de e-learning que permita aos professores criar e compartilhar cursos online de forma eficiente e atraente. A plataforma deve incluir suporte para vídeos educacionais, quizzes interativos, fóruns de discussão para fomentar a troca de ideias e um sistema de acompanhamento de progresso dos alunos, proporcionando uma experiência educacional completa e envolvente.
 
 ## Principais Funcionalidades da Plataforma
 - **Criação de Cursos**: Interface intuitiva para que os professores possam criar, organizar e publicar cursos facilmente.
