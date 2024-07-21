@@ -1,6 +1,6 @@
 # Plataforma Edutech
 
-Nos dias atuais, a educação digital tornou-se indispensável para disseminar o conhecimento de maneira prática e acessível. A crescente demanda por tecnologias que facilitem o aprendizado remoto está transformando o cenário educacional, integrando recursos inovadores que otimizam a experiência de ensino e aprendizagem. Com isso em mente, desenvolveremos uma plataforma de e-learning robusta e intuitiva, que atende às necessidades de professores e alunos.
+Nos dias atuais, a educação digital é indispensável para disseminar o conhecimento de forma prática e acessível. A crescente demanda por tecnologias que facilitem o aprendizado remoto está transformando o cenário educacional, integrando recursos inovadores que otimizam a experiência de ensino e aprendizagem. Com isso em mente, desenvolveremos uma plataforma de e-learning robusta e intuitiva, voltada para cursos de tecnologia, que atende às necessidades de professores e alunos.
 
 ## Objetivo do Projeto
 
