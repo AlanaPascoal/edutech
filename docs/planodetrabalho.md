@@ -67,7 +67,8 @@ Desenvolvimento de um sistema abrangente de educação online, incluindo funcion
 
 #### 2.2.1 Escopo Específico
 
-- Implementação de funcionalidades para:
+Implementação de funcionalidades para:
+
 - Upload de vídeos
 - Criação de quizzes
 - Visualização de métricas de desempenho
