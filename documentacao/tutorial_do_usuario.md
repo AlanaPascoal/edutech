@@ -13,8 +13,10 @@ Bem-vindo ao EduTech! Este tutorial foi criado para guiá-lo através das princi
 ![sign-in](https://github.com/user-attachments/assets/11a46cb0-cbb9-4872-9dad-9b00fb79baed)
 
 ##### Criando conta do professor: 
+![sign-up](https://github.com/user-attachments/assets/a0cd670d-7ce5-4887-864c-5cbe9b1648b5)
 
 ##### Login do professor:
+![sign-in](https://github.com/user-attachments/assets/40d23eee-56be-44e8-9e00-ec3192a69c33)
 
 ## 2. Funcionalidades para Alunos
 
