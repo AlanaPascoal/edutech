@@ -4,7 +4,7 @@
 Bem-vindo ao EduTech! Este tutorial foi criado para guiá-lo através das principais funcionalidades da nossa plataforma, proporcionando uma experiência de aprendizado online completa e intuitiva.
 
 ## 1. Acesso ao Sistema
-- **Login:** Para acessar o EduTech, insira seu nome de usuário e senha nos campos correspondentes e clique em "Entrar". Se você ainda não possui uma conta, clique em "Registrar" para criar uma nova.
+- **Login:** Para acessar o EduTech, insira seu nome de usuário e senha nos campos correspondentes e clique em "Entrar". Se você ainda não possui uma conta, clique em "Criar uma conta" para se registrar.
 
 ## 2. Funcionalidades para Alunos
 
@@ -14,7 +14,7 @@ Bem-vindo ao EduTech! Este tutorial foi criado para guiá-lo através das princi
     
 - **Aulas e Conteúdos:**
   - **Acesso aos Vídeos:** Navegue até a seção "Cursos" no menu principal e selecione o curso desejado. Clique na aula específica para assistir ao vídeo e aproveite o conteúdo oferecido.
-  - **Quizzes:** Após assistir ao vídeo, clique em "Quizzes" para testar seus conhecimentos. Responda às perguntas, revise suas respostas e clique em "Enviar" para finalizar.
+  - **Quizzes:** Após assistir ao vídeo, clique em "Quizzes" para testar seus conhecimentos. Responda às perguntas, revise suas respostas e clique em "Enviar Quizz" para finalizar.
 
 - **Métricas de Desempenho:**
   - **Visualização de Desempenho:** Na seção "Meu Desempenho", você pode acompanhar suas notas, progresso nos cursos e feedbacks recebidos de seus instrutores.
@@ -25,7 +25,7 @@ Bem-vindo ao EduTech! Este tutorial foi criado para guiá-lo através das princi
 ## 3. Funcionalidades para Professores
 
 - **Perfil do Professor:**
-  - **Atualização de Bio:** Clique no ícone do seu perfil e selecione "Editar Perfil". Adicione ou atualize sua bio para que os alunos conheçam melhor sobre você e sua trajetória.
+  - **Atualização de Bio:** Clique no ícone do seu perfil e selecione "Editar". Adicione ou atualize sua bio para que os alunos conheçam melhor sobre você e sua trajetória.
 
 - **Gerenciamento de Cursos:**
   - **Upload de Vídeos:** Vá até a seção "Meus Cursos" e selecione o curso que deseja atualizar. Clique em "Adicionar Aula" e siga as instruções para fazer o upload de vídeos, garantindo que seu conteúdo esteja sempre atualizado.
@@ -40,7 +40,7 @@ Bem-vindo ao EduTech! Este tutorial foi criado para guiá-lo através das princi
 - **Relatórios de Sentimento:** Acompanhe o feedback dos alunos através de relatórios de sentimento, disponíveis na mesma seção. Essas informações ajudam a entender melhor a experiência dos alunos e a fazer ajustes necessários.
 
 ## 5. Configurações de Notificações
-- **Personalização de Notificações:** Vá até o "sininho" de "Notificações". Aqui, você pode personalizar quais notificações deseja receber e como deseja recebê-las (e-mail, SMS, etc.), garantindo que você nunca perca informações importantes.
+- **Personalização de Notificações:** Vá até o "sininho" de notificações. Aqui, você pode personalizar quais notificações deseja receber e como deseja recebê-las (e-mail, SMS, etc.), garantindo que você nunca perca informações importantes.
 
 ## 6. Suporte a Múltiplos Idiomas
 - **Alteração de Idioma:** Para mudar o idioma da plataforma, vá até o botão com as "bandeiras" e selecione o idioma que você prefere. A plataforma será alterada automaticamente para o idioma escolhido. A EduTech está comprometida em oferecer uma experiência de aprendizado global.
