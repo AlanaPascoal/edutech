@@ -1,15 +1,19 @@
 # Rastreabilidade de Requisitos
+
 ## Informações do Projeto
 
-| --- | --- |
-| Nome do Projeto | EduTech |
-| Data | 22/07/2024 |
-| Executor Principal | Kayth Kariny |
-| Coordenador do Projeto | Andrey Rodrigues |
+**Nome do Projeto:** EduTech  
+**Data:** 22/07/2024 
+**Executor Principal:** Kayth Kariny  
+**Coordenador do Projeto:** Andrey Rodrigues  
+
+---
 
 ### Introdução
 
 Este documento de rastreabilidade de requisitos tem como objetivo mapear os requisitos do backlog do projeto EduTech com as funcionalidades implementadas no protótipo, destacando aqueles que já foram atendidos e os que ainda estão em processo de desenvolvimento. A rastreabilidade de requisitos é essencial para garantir que todas as necessidades dos stakeholders sejam atendidas de forma eficiente e que quaisquer mudanças no escopo sejam controladas e documentadas adequadamente.
+
+---
 
 ### Tabela de Rastreabilidade
 
@@ -27,6 +31,8 @@ Este documento de rastreabilidade de requisitos tem como objetivo mapear os requ
 | Relatórios de progresso | | Relatórios de progresso em formato gráfico | H10 | Em desenvolvimento |
 | Notificações sobre atividades | | Notificações sobre atividades dos alunos | H11 | Implementado |
 | Suporte a múltiplos idiomas | | Suporte a múltiplos idiomas para atender uma audiência global | H12 | Em desenvolvimento |
+
+---
 
 ### Conclusão
 
