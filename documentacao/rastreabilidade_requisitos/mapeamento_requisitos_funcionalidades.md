@@ -1,6 +1,7 @@
 # Rastreabilidade de Requisitos
 ## Informações do Projeto
 
+| --- | --- |
 | Nome do Projeto | EduTech |
 | Data | 22/07/2024 |
 | Executor Principal | Kayth Kariny |
