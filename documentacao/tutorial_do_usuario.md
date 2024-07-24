@@ -72,19 +72,12 @@ Bem-vindo ao EduTech! Este tutorial foi criado para guiá-lo através das princi
 
     ![quizzes](https://github.com/user-attachments/assets/112503fe-dcd9-4ad6-9bda-26094dd93790)
 
-- **Feedback e Avaliação:**
-  - **Histórico de Feedbacks:** Acesse a seção "Feedbacks" para visualizar e responder aos feedbacks dos alunos. Utilize esses insights para aprimorar suas aulas.
-  - **Critérios de Avaliação:** Defina os critérios de avaliação para cada curso na seção "Configurações de Curso", garantindo transparência e objetividade nas avaliações.
+- **Avaliação:**
+  - **Critérios de Avaliação:** Na seção "Avaliações", selecione "Adicionar Questão". Preencha as perguntas e clique em "Salvar". Personalize suas avaliações para oferecer uma medição precisa do progresso dos alunos. O professor poderá editar ou apagar a avaliação conforme necessário.
 
-## 4. Relatórios e Análises
-- **Relatórios de Progresso:** Na seção "Relatórios", professores e alunos podem acessar relatórios detalhados sobre o progresso no curso, visualizados em formato gráfico. Utilize essas informações para monitorar seu desempenho e identificar áreas de melhoria.
-- **Relatórios de Sentimento:** Acompanhe o feedback dos alunos através de relatórios de sentimento, disponíveis na mesma seção. Essas informações ajudam a entender melhor a experiência dos alunos e a fazer ajustes necessários.
+    ![avaliações](https://github.com/user-attachments/assets/3429228b-de4a-4fd8-b13a-50bbdecd64c1)
 
-## 5. Configurações de Notificações
-- **Personalização de Notificações:** Vá até o "sininho" de notificações. Aqui, você pode personalizar quais notificações deseja receber e como deseja recebê-las (e-mail, SMS, etc.), garantindo que você nunca perca informações importantes.
-
-## 6. Suporte a Múltiplos Idiomas
-- **Alteração de Idioma:** Para mudar o idioma da plataforma, vá até o botão com as "bandeiras" e selecione o idioma que você prefere. A plataforma será alterada automaticamente para o idioma escolhido. A EduTech está comprometida em oferecer uma experiência de aprendizado global.
+    ![modal-add-avaliação](https://github.com/user-attachments/assets/21722c74-f2c6-426a-bfbe-795aa3d74d72)
 
 ## Chegamos ao final do tutorial!
 Esperamos que este tutorial tenha sido útil para entender as funcionalidades do EduTech. Nossa plataforma foi projetada para proporcionar uma experiência de aprendizado rica e envolvente. Se tiver alguma dúvida ou precisar de assistência, entre em contato com o suporte através do e-mail suporte@edutech.com.
