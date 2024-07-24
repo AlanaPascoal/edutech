@@ -4,7 +4,6 @@
 **Data:** 22/07/2024  
 **Executor Principal:** Kayth Kariny  
 **Coordenador do Projeto:** Andrey Rodrigues
-**Versão:** 1.0
 
 ## Introdução
 
