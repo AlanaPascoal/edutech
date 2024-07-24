@@ -47,11 +47,14 @@ Bem-vindo ao EduTech! Este tutorial foi criado para guiá-lo através das princi
 
     ![avaliação-success](https://github.com/user-attachments/assets/c10735e5-a283-4776-93e2-719c0c203dd7)
 
-- **Métricas de Desempenho:**
-  - **Visualização de Desempenho:** Na seção "Meu Desempenho", você pode acompanhar suas notas, progresso nos cursos e feedbacks recebidos de seus instrutores.
+  - **Visualização dos Sentimentos do Aluno:** Após enviar sua avaliação, o aluno será redirecionado para uma aba na qual poderá expressar seus sentimentos e opiniões em relação à plataforma, além de fornecer feedback.
+ 
+    ![modal-feedback-av](https://github.com/user-attachments/assets/af0d82e3-d4e8-437a-b393-8827354c1bd0)
 
 - **Comunicação com Instrutores:**
-  - **Mensagens:** Para entrar em contato com um instrutor, vá até a seção "Mensagens" e clique em "Nova Mensagem". Escolha o instrutor desejado, escreva sua mensagem e envie.
+  - **Comentários e Fórum:** Para entrar em contato com um instrutor, você pode deixar um comentário diretamente na aba "Aulas" ou participar do "Fórum".
+  
+    ![forúm](https://github.com/user-attachments/assets/ee7f0bb6-e6d2-4d86-8cd5-832cfec58b94)
 
 ## 3. Funcionalidades para Professores
 
