@@ -1,12 +1,11 @@
 # Rastreabilidade de Requisitos
-
 ## Informações do Projeto
 
 **Nome do Projeto:** EduTech  
-**Data:** 22/07/2024 
+**Versão:** 1.0  
+**Status:** Em desenvolvimento  
 **Executor Principal:** Kayth Kariny  
 **Coordenador do Projeto:** Andrey Rodrigues  
-
 ---
 
 ### Introdução
