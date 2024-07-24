@@ -15,7 +15,7 @@ Bem-vindo ao EduTech! Este tutorial foi criado para guiá-lo através das princi
 - **Aulas e Conteúdos:**
   - **Acesso aos Vídeos:** Navegue até a seção "Cursos" no menu principal e selecione o curso desejado. Clique na aula específica para assistir ao vídeo e aproveite o conteúdo oferecido.
   - **Quizzes:** Após assistir ao vídeo, clique em "Quizzes" para testar seus conhecimentos. Responda às perguntas, revise suas respostas e clique em "Enviar" para finalizar.
-  - 
+
 - **Métricas de Desempenho:**
   - **Visualização de Desempenho:** Na seção "Meu Desempenho", você pode acompanhar suas notas, progresso nos cursos e feedbacks recebidos de seus instrutores.
 
