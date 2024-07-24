@@ -48,7 +48,8 @@ Este tutorial foi criado para guiá-lo através das principais funcionalidades d
     ![modal-feedback-av](https://github.com/user-attachments/assets/af0d82e3-d4e8-437a-b393-8827354c1bd0)
 
 - **Comunicação com Professores:**
-  - **Comentários e Fórum:** Para entrar em contato com um instrutor, você pode deixar um comentário diretamente na aba "Aulas" ou participar do "Fórum".
+  - **Comentários e Fórum:** Para entrar em contato com um professor, você pode deixar um comentário diretamente na aba "Aulas" ou participar do "Fórum".
+
     ![forúm](https://github.com/user-attachments/assets/ee7f0bb6-e6d2-4d86-8cd5-832cfec58b94)
 
 ## 3. Funcionalidades para Professores
