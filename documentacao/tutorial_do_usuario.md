@@ -61,9 +61,16 @@ Bem-vindo ao EduTech! Este tutorial foi criado para guiá-lo através das princi
 - **Perfil do Professor:**
   - **Atualização de Bio:** Clique no ícone do seu perfil e selecione "Editar". Adicione ou atualize sua bio para que os alunos conheçam melhor sobre você e sua trajetória.
 
+    ![perfil](https://github.com/user-attachments/assets/115e9d50-59c9-48ff-ae8c-6edf2b777c9a)
+
 - **Gerenciamento de Cursos:**
-  - **Upload de Vídeos:** Vá até a seção "Meus Cursos" e selecione o curso que deseja atualizar. Clique em "Adicionar Aula" e siga as instruções para fazer o upload de vídeos, garantindo que seu conteúdo esteja sempre atualizado.
-  - **Criação de Quizzes:** Na mesma seção, selecione "Adicionar Quiz". Preencha as perguntas e respostas, defina o tempo de duração e clique em "Salvar". Personalize seus quizzes para oferecer uma experiência de aprendizado interativa.
+  - **Upload de Vídeos:** Na secão "Aulas", haverá a aba "Minhas Aulas" e um botão "+". Clique nele para adicionar um novo vídeo. Siga as instruções para fazer o upload, garantindo que seu conteúdo esteja sempre atualizado.
+
+    ![aulas](https://github.com/user-attachments/assets/83a715df-4931-475d-a65b-44cac2cdf304)
+
+  - **Criação de Quizzes:** Na seção "Quizzes", selecione "Adicionar Questão". Preencha as perguntas e respostas e clique em "Salvar". Personalize seus quizzes para oferecer uma experiência de aprendizado interativa. O professor poderá editar ou apagar o quizz. 
+
+    ![quizzes](https://github.com/user-attachments/assets/112503fe-dcd9-4ad6-9bda-26094dd93790)
 
 - **Feedback e Avaliação:**
   - **Histórico de Feedbacks:** Acesse a seção "Feedbacks" para visualizar e responder aos feedbacks dos alunos. Utilize esses insights para aprimorar suas aulas.
