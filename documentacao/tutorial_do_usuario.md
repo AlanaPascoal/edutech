@@ -6,15 +6,46 @@ Bem-vindo ao EduTech! Este tutorial foi criado para guiá-lo através das princi
 ## 1. Acesso ao Sistema
 - **Login:** Para acessar o EduTech, insira seu nome de usuário e senha nos campos correspondentes e clique em "Entrar". Se você ainda não possui uma conta, clique em "Criar uma conta" para se registrar.
 
+##### Criando conta do aluno:  
+![sign-up](https://github.com/user-attachments/assets/0b320b4a-542f-4f25-806d-d9dcb750a1d8)
+
+##### Login do aluno:
+![sign-in](https://github.com/user-attachments/assets/11a46cb0-cbb9-4872-9dad-9b00fb79baed)
+
+##### Criando conta do professor: 
+
+##### Login do professor:
+
 ## 2. Funcionalidades para Alunos
 
 - **Perfil do Aluno:**
-  - **Dashboard:** Após o login, você será direcionado ao seu dashboard personalizado, onde poderá visualizar um resumo das suas atividades, notificações e cursos em andamento
+  
   - **Atualização de Bio:** Clique no ícone do seu perfil no canto superior direito e selecione "Editar". Adicione ou atualize sua bio para personalizar sua presença na plataforma.
-    
+ 
+    ![perfil](https://github.com/user-attachments/assets/b452984c-81d9-47e0-beac-da91d10e01d0)
+
 - **Aulas e Conteúdos:**
-  - **Acesso aos Vídeos:** Navegue até a seção "Cursos" no menu principal e selecione o curso desejado. Clique na aula específica para assistir ao vídeo e aproveite o conteúdo oferecido.
-  - **Quizzes:** Após assistir ao vídeo, clique em "Quizzes" para testar seus conhecimentos. Responda às perguntas, revise suas respostas e clique em "Enviar Quizz" para finalizar.
+  - **Acesso aos Vídeos:** Navegue até a seção "Aulas" no menu principal e selecione o curso desejado. Clique na aula específica para assistir ao vídeo e aproveite o conteúdo oferecido. Você também terá acesso a uma página com recomendações de aulas futuras de acordo com o seu perfil.
+
+    ![aula](https://github.com/user-attachments/assets/89ed7d54-8358-4804-948f-790cc00c2e15)
+
+    ![aulas](https://github.com/user-attachments/assets/194b23f1-db68-4eba-81df-009e55f8e99f)
+
+  - **Quizzes:** Após assistir a aula, o professor disponibilizará um link. O aluno poderá copiar e colar esse link na página "home", que o redirecionará automaticamente para os "Quizzes" para testar seus conhecimentos. Responda às perguntas, revise suas respostas e clique em "Enviar Quiz" para finalizar.
+ 
+    ![home](https://github.com/user-attachments/assets/ab73928b-2488-4936-9d76-65a89f690e06)
+
+    ![quiz](https://github.com/user-attachments/assets/8c30f329-edbd-4f08-95de-90c68b912969)
+
+    ![quiz-success](https://github.com/user-attachments/assets/2d2edd8a-f366-4d00-917b-4e205e170f69)
+
+  - **Avaliações:** Após finalizar o contéudo, o professor disponibilizará um link. O aluno poderá copiar e colar esse link na página "home", que o redirecionará automaticamente para as "Avaliações" para mostrar seus conhecimentos sobre o assunto estudado. Responda às perguntas, revise suas respostas e clique em "Finalizar Avaliação" para finalizar.
+ 
+    ![home](https://github.com/user-attachments/assets/5ec05fa1-1ca1-48ac-99f1-af1d8df4d204)
+
+    ![avaliação](https://github.com/user-attachments/assets/1af5bda1-3ed4-4b49-82f4-1517b9131d40)
+
+    ![avaliação-success](https://github.com/user-attachments/assets/c10735e5-a283-4776-93e2-719c0c203dd7)
 
 - **Métricas de Desempenho:**
   - **Visualização de Desempenho:** Na seção "Meu Desempenho", você pode acompanhar suas notas, progresso nos cursos e feedbacks recebidos de seus instrutores.
